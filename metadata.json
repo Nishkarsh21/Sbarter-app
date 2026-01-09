@@ -1,0 +1,8 @@
+{
+  "name": "SkillBarter - Skill Exchange Platform",
+  "description": "A platform to exchange skills using a credit-based system. Matches users based on skills and monitors learning sessions to ensure productivity.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
